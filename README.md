@@ -1,17 +1,17 @@
-# Mbot
-
-<a href="https://github.com/tedsluis/mBot/raw/master/picutues/mcore_main_board_mbot.png"
- target="_blank"><img src="https://github.com/tedsluis/mBot/raw/master/pictures/mcore_main_board_mbot.png"
-alt="" width="633" height="333" border="10" /></a>  
-
-<a href="https://github.com/tedsluis/mBot/raw/master/picutues/mcore_and_sensors_mbot.png"
- target="_blank"><img src="https://github.com/tedsluis/mBot/raw/master/pictures/mcore_and_sensors_mbot.png"
-alt="" width="633" height="333" border="10" /></a>  
-
-<a href="https://github.com/tedsluis/mBot/raw/master/picutues/mcore_ports_and_components.png"
- target="_blank"><img src="https://github.com/tedsluis/mBot/raw/master/pictures/mcore_ports_and_components.png"
-alt="" width="633" height="333" border="10" /></a>  
-
+# mBot
+  
+## mCore board mBot  
+<a href="https://raw.githubusercontent.com/tedsluis/mBot/master/pictures/mcore_main_board_mbot.png"
+ target="_blank"><img src="https://raw.githubusercontent.com/tedsluis/mBot/master/pictures/mcore_main_board_mbot.png"/></a>  
+  
+## mCore and sensors mBot  
+<a href="https://raw.githubusercontent.com/tedsluis/mBot/master/pictures/mcore_and_sensors_mbot.png"
+ target="_blank"><img src="https://raw.githubusercontent.com/tedsluis/mBot/master/pictures/mcore_and_sensors_mbot.png"/></a>  
+  
+## mCore ports, pins settings and components  
+<a href="https://raw.githubusercontent.com/tedsluis/mBot/master/pictures/mcore_ports_and_components.png"
+ target="_blank"><img src="https://raw.githubusercontent.com/tedsluis/mBot/master/pictures/mcore_ports_and_components.png"/></a>  
+  
 # Getting ready for the challenge 
 
 * Clone this Git Repository to a local folder
