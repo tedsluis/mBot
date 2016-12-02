@@ -1,16 +1,29 @@
+[TOC]   
+  
 # mBot
+    
+## mCore and sensors mBot  
+<a href="https://raw.githubusercontent.com/tedsluis/mBot/master/pictures/mcore_and_sensors_mbot.png"
+ target="_blank"><img src="https://raw.githubusercontent.com/tedsluis/mBot/master/pictures/mcore_and_sensors_mbot.png"
+alt="mCore and sensors mBot" width="600" height="477" border="10"/></a>  
+  
+## Part list  
+  
+Component             | Description       |
+--------------------- | ----------------- |
+mCore                 | mBot main board   |
+me Line follower      | Line follower     |
+me Ultrasonic sensor  | Ultrasonic sensor |
   
 ## mCore board mBot  
 <a href="https://raw.githubusercontent.com/tedsluis/mBot/master/pictures/mcore_main_board_mbot.png"
- target="_blank"><img src="https://raw.githubusercontent.com/tedsluis/mBot/master/pictures/mcore_main_board_mbot.png"/></a>  
-  
-## mCore and sensors mBot  
-<a href="https://raw.githubusercontent.com/tedsluis/mBot/master/pictures/mcore_and_sensors_mbot.png"
- target="_blank"><img src="https://raw.githubusercontent.com/tedsluis/mBot/master/pictures/mcore_and_sensors_mbot.png"/></a>  
+ target="_blank"><img src="https://raw.githubusercontent.com/tedsluis/mBot/master/pictures/mcore_main_board_mbot.png"
+alt="mCore board mBot" width="600" height="398" border="10"/></a>  
   
 ## mCore ports, pins settings and components  
 <a href="https://raw.githubusercontent.com/tedsluis/mBot/master/pictures/mcore_ports_and_components.png"
- target="_blank"><img src="https://raw.githubusercontent.com/tedsluis/mBot/master/pictures/mcore_ports_and_components.png"/></a>  
+ target="_blank"><img src="https://raw.githubusercontent.com/tedsluis/mBot/master/pictures/mcore_ports_and_components.png"
+alt="mCore ports, pins settings and components" width="572" height="612" border="10"/></a>  
   
 # Getting ready for the challenge 
 
