@@ -2,19 +2,14 @@
   
 # mBot
     
-## mCore and sensors mBot  
-<a href="https://raw.githubusercontent.com/tedsluis/mBot/master/pictures/mcore_and_sensors_mbot.png"
- target="_blank"><img src="https://raw.githubusercontent.com/tedsluis/mBot/master/pictures/mcore_and_sensors_mbot.png"
-alt="mCore and sensors mBot" width="600" height="477" border="10"/></a>  
-  
 ## Part list  
   
 Component             | Description       | Picture                                                                           |
 --------------------- | ----------------- |---------------------------------------------------------------------------------- |
-mCore                 | mBot main board   | https://github.com/tedsluis/mBot/raw/master/pictures/mcore_mbot.jpg               | 
-me Line follower      | Line follower     | https://github.com/tedsluis/mBot/raw/master/pictures/me_line_follower.jpg         | 
-me Ultrasonic sensor  | Ultrasonic sensor | https://github.com/tedsluis/mBot/raw/master/pictures/me_ultrasonic_sensor.jpg     | 
-me Bluetooth          | Bluetooth sensor  | https://github.com/tedsluis/mBot/raw/master/pictures/bluetooth_for_mbot.html.jpg  | 
+mCore                 | mBot main board   | ![alt text](https://github.com/tedsluis/mBot/raw/master/pictures/mcore_mbot.jpg "mCore, main board mBot")| 
+me Line follower      | Line follower     | ![alt text](https://github.com/tedsluis/mBot/raw/master/pictures/me_line_follower.jpg "me Line follower")         | 
+me Ultrasonic         | Ultrasonic sensor | ![alt text](https://github.com/tedsluis/mBot/raw/master/pictures/me_ultrasonic_sensor.jpg "me Ultrasonic sensor")     | 
+me Bluetooth          | Bluetooth sensor  | ![alt text](https://github.com/tedsluis/mBot/raw/master/pictures/bluetooth_for_mbot.html.jpg "me Bluetooth module")  | 
   
 ## mCore board mBot  
 <a href="https://raw.githubusercontent.com/tedsluis/mBot/master/pictures/mcore_main_board_mbot.png"
