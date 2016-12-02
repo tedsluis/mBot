@@ -1,7 +1,14 @@
-[TOC]   
-  
 # mBot
-    
+  
+## Table of contents   
+  
+  * [mBot](#mbot)
+    * [Table of contents](#table-of-contents)
+    * [Part list](#part-list)
+    * [mCore board mBot](#mcore-board-mbot)
+    * [mCore ports, pins settings and components](#mcore-ports-pins-settings-and-components)
+    * [Getting ready for the challenge](#getting-ready-for-the-challenge)
+   
 ## Part list  
   
 Component             | Description       | Picture                                                                           |
@@ -21,7 +28,7 @@ alt="mCore board mBot" width="600" height="398" border="10"/></a>
  target="_blank"><img src="https://raw.githubusercontent.com/tedsluis/mBot/master/pictures/mcore_ports_and_components.png"
 alt="mCore ports, pins settings and components" width="572" height="612" border="10"/></a>  
   
-# Getting ready for the challenge 
+## Getting ready for the challenge 
 
 * Clone this Git Repository to a local folder
 * Create a branch with your team name: team/***teamName***
